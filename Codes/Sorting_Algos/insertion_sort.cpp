@@ -1,6 +1,5 @@
 
-
-# Approach
+# Approach ( O(n^2) )
 
 /*
 
